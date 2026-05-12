@@ -1,6 +1,6 @@
 # dio-miniguia-estudos-notebooklm
 Curso DIO
-#Contexto e Objetivos: 
+#Contexto e Objetivos:
 ##Inicie seu README explicando qual foi o assunto de interesse escolhido para o seu caderno temático e defina claramente quais são os seus objetivos de estudo com esse material.
 #Curadoria de Fontes: 
 ##Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
